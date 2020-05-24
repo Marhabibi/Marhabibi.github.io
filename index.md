@@ -70,8 +70,6 @@
 		}
 	</style>
 </head>
-	
-
 <body>
 <div class="container">
 	<div class="bg_img"> <img src="hu-logo.png" style="height:100px;width:100px;float:right;margin:10px">
