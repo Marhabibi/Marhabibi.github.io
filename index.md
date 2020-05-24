@@ -93,7 +93,7 @@
 			I am currently a postdoctoral researcher at the <a href="https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi" target="_blank"> Knowledge Management in Bioinformatics Laboratory (WBI)</a>, <a href="https://www.hu-berlin.de/en/" target="_blank">Humboldt-Universität</a>, Berlin, Germany. Previously, I was a PhD research assistant at the <a href="https://www.idiap.ch/en/scientific-research/natural-language-understanding" target="_blank">NLP group</a> of the <a href="https://www.idiap.ch/en" target="_blank">Idiap research Institute</a>, Martigny, Switzerland. My current research activities and interests include <a href = "https://en.wikipedia.org/wiki/Machine_learning" target = "_blank">Machine Learning</a>, <a href = "https://en.wikipedia.org/wiki/Deep_learning" target = "_blank">Deep Learning</a>, <a href = "https://en.wikipedia.org/wiki/Natural_language_processing" target = "_black"> Natural Language Processing</a> and <a href = "https://en.wikipedia.org/wiki/Text_mining" target = "_blank"> Text Mining</a>.
 			<br>
 			<br>
-			Connect via <a href="mailto:habibima-at-informatik.hu-berlin.de" target="_blank">Email</a><span> | </span><a href="https://www.linkedin.com/in/maryam-habibi-984453132/?originalSubdomain=de" target="_blank";>LinkedIn</a>
+			Connect via <a href="mailto:habibima-at-informatik.hu-berlin.de" target="_blank">Email</a><span> | </span><a href="https://www.linkedin.com/in/maryam-habibi-984453132/?originalSubdomain=de" target="_blank">LinkedIn</a>
 		</div>
 	</section>
 	<section id = "education" style="clear:both;display:none;overflow: hidden;">
